@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "933616792884",
+    "firebase_url": "https://mr-solution-admin-705a6.firebaseio.com",
+    "project_id": "mr-solution-admin-705a6",
+    "storage_bucket": "mr-solution-admin-705a6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:933616792884:android:b4cfed8970a30316426161",
+        "android_client_info": {
+          "package_name": "emerge.project.mr_indoscan_admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "933616792884-abn5hdcen4ehuciujvu1dquatvp5q4nh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxXRhayo8aYlI7GXrzFT5zU8kGrYY97Qw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "933616792884-abn5hdcen4ehuciujvu1dquatvp5q4nh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:933616792884:android:f54bff7138088455426161",
+        "android_client_info": {
+          "package_name": "emerge.project.mr_mega_admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "933616792884-abn5hdcen4ehuciujvu1dquatvp5q4nh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxXRhayo8aYlI7GXrzFT5zU8kGrYY97Qw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "933616792884-abn5hdcen4ehuciujvu1dquatvp5q4nh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
