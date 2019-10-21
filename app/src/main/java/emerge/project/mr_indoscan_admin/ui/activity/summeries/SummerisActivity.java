@@ -231,9 +231,11 @@ public class SummerisActivity extends Activity implements SummerisView{
     protected void onStart() {
         super.onStart();
 
-        includeProgres.setVisibility(View.VISIBLE);
-        summerisPresenter.getReps(this);
+       // includeProgres.setVisibility(View.VISIBLE);
+      //  summerisPresenter.getReps(this);
 
+
+        Toast.makeText(this, "This feature will be available soon", Toast.LENGTH_LONG).show();
 
     }
 
